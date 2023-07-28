@@ -1,0 +1,54 @@
+ans.1 function is a code of block it can be reapet and declair in globle scope use.
+
+
+ans.2 repeatable task perfomes that time use loop.
+
+
+for (var i = 0; i < 5; i++){
+  console.log(i)
+}
+
+ans.3 variable is container in store values.
+
+ans.4 
+1) primitive data types :
+  1. booleans
+  2. null
+  3. sring
+  4. number
+  5. bygint
+  6. undefine
+  7. symbol
+2) speciale data types :
+  1. object
+
+
+ans.5 two condiation are there any one condition implimate that time use brancing.
+
+ans.6 And opratore are find is booleans value(true , false).
+
+ans.7 unery operator in js:
+ 
+  ex,
+  1. A = 5,
+     B = 6,  
+    var C = A + B;
+    console.log(C);
+
+    
+  2. A = 5,
+     B = 10,  
+    var C = A - B;
+    console.log(C);
+
+ans.8 
+    a = 5,
+    b = 5,
+
+    function sum (a , b){
+        return(a + b);
+    };
+
+ans.9 getElemensByClassName() is return class are declair in Elements,  That element are shows.
+
+ans. 10 two property ya more property added that time use object.
